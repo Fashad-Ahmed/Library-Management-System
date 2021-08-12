@@ -44,6 +44,8 @@ The goal of the venture is to give ease in plausibility to both staff and client
 
 ![9](https://user-images.githubusercontent.com/64021315/129182872-72b74c26-61cf-4afd-b0ef-8af8057d2f03.PNG)
 
+
+
 ### USER PRIVILAGES & ROLE GRANTS:
 
 ![Create user proof](https://user-images.githubusercontent.com/64021315/129183976-eb1d5c91-6557-478f-aa4d-21686ee225be.PNG)
